@@ -3,11 +3,11 @@ body {
     justify-content:center;
     align-items:center; 
     height:100vh;
-    background-color:rgb(20,20,54);
+    background-color:orchid;
 }
 
 h1{
-    font-size:15em;
+    font-size:13em;
     font-family:Montserrat;
 }
 
